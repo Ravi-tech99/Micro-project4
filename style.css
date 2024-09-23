@@ -190,8 +190,8 @@ body {
 }
 
 .result-img {
-    width: 180px !important;
-    height: 180px !important ;
+    width: 180px;
+    height: 180px;
 }
 
 #result-text-1 {
@@ -278,8 +278,8 @@ body {
 }
 
 .large {
-    font-size: 18px !important;
-    padding: 0.8rem 1.8rem !important;
+    font-size: 18px;
+    padding: 0.8rem 1.8rem ;
 }
 
 .filled-btn:hover {
@@ -291,10 +291,12 @@ body {
 
 #play-again {
     display: block;
+    margin-bottom: 20px;
 }
 
 #replay {
-    padding: 0.5rem 1.8rem !important;
+    padding: 0.5rem 1.8rem ;
+    margin-bottom: 20px;
     display: none;
 }
 
